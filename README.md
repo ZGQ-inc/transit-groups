@@ -78,7 +78,8 @@ http://t.cn/A6cH3opL
 
 ### 三星使用手册正文精选
 
-http://t.cn/A6cH39Zc
+
+http://mtw.so/6moJ2Z
 
 群号：907244685
 
