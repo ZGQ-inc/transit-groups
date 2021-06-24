@@ -108,6 +108,6 @@
 
 [点我跳转](https://join.skype.com/WXZWC6D7WMby)
 
-Discord群组
+### Discord群组
 
-组建中...
+建立中...
