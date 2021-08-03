@@ -151,3 +151,7 @@
 ### Discord群组
 
 建立中...
+
+### VKontakte群组
+
+[邀请链接](https://vk.me/join/AJQ1dx17kRzh/uZQwtXwzdWY)
