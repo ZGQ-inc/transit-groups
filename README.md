@@ -4,11 +4,25 @@
 
 建群初衷很微小，只是为了能更方便地写帖子，没想到越做越大，现在已经有14个群了（部分未展示），在此我要感谢所有支持我的人
 
-*★做一个多元化且免费良心的资源群★*
+*★<span style="color: #000000">做</span>
+<span style="color: #666666">一</span>
+<span style="color: #fa0000">个</span>
+<span style="color: #fa7d00">多</span>
+<span style="color: #dbdb00">元</span>
+<span style="color: #fafa00">化</span>
+<span style="color: #00fa00">且</span>
+<span style="color: #00f562">免</span>
+<span style="color: #00f5f5">费</span>
+<span style="color: #006edb">良</span>
+<span style="color: #007dfa">心</span>
+<span style="color: #0000fa">的</span>
+<span style="color: #6400fa">资</span>
+<span style="color: #fa00fa">源</span>
+<span style="color: #a800a8">群</span>★*
 
 ## 冰点™资源分享所有分群列表 
 
-- 为了防机器人，现添加入群验证，请填写各个分群对应的口令
+- 为了防机器人，现添加入群验证，<span style="color: #fa0000">请填写各个分群对应的口令</span>
 
 ### 冰点™资源交流1群（闲聊&技术探讨）
 
@@ -144,7 +158,7 @@
 
 `用来分享一些封禁资源`
 
-`！FBI WARNING！`
+<span style="color: #fa0000">！FBI WARNING！</span>
 
 [点我跳转](https://join.skype.com/WXZWC6D7WMby)
 
