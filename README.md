@@ -177,3 +177,7 @@
 ## VKontakte群组
 
 [邀请链接](https://vk.me/join/AJQ1dx17kRzh/uZQwtXwzdWY)
+
+## MEGA群组
+
+[邀请链接](https://mega.nz/chat/15Q00TiS#iEnKtcbpnlumzXPM5pxAJQ)
