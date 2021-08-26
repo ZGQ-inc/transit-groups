@@ -196,7 +196,8 @@ Hyperbeam聊天室
 
 Conversations聊天室
 
->XMPP URL `xmpp:zgq-inc@conference.conversations.im?join`
+> XMPP URL
+> `xmpp:zgq-inc@conference.conversations.im?join`
 
 [邀请链接](https://conversations.im/j/zgq-inc@conference.conversations.im)
 
