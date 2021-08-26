@@ -152,9 +152,9 @@
 
 ## Telegram群组
 
-`需要梯子`
-
 [点我跳转](https://t.me/CopyRightZGQInc)
+
+`最好用的国外即时通讯软件，需要梯子`
 
 ## 冰点资源交流曲奇云盘资源群
 
@@ -164,20 +164,40 @@
 
 ## 冰点™资源交流Skype群组
 
-`用来分享一些封禁资源`
-
 <span style="color: #fa0000">！FBI WARNING！</span>
 
 [点我跳转](https://join.skype.com/WXZWC6D7WMby)
+
+`微软团队协同平台，用来分享一些封禁资源`
 
 ## Discord群组
 
 建立中...
 
+`给玩家建立的聊天服务器平台`
+
 ## VKontakte群组
 
 [邀请链接](https://vk.me/join/AJQ1dx17kRzh/uZQwtXwzdWY)
 
+`俄罗斯知名社交媒体，大陆可用`
+
 ## MEGA群组
 
 [邀请链接](https://mega.nz/chat/15Q00TiS#iEnKtcbpnlumzXPM5pxAJQ)
+
+`群组网盘分享，类似曲奇云盘，需要梯子`
+
+Hyperbeam聊天室
+
+[邀请链接](https://hyperbeam.com/i/oq5itmir)
+
+`屏幕共享，聊天群组`
+
+Conversations聊天室
+
+>XMPP URL `xmpp:zgq-inc@conference.conversations.im?join`
+
+[邀请链接](https://conversations.im/j/zgq-inc@conference.conversations.im)
+
+`加密聊天室，大陆可用`
