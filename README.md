@@ -1,20 +1,6 @@
 建群初衷很微小，只是为了能更方便地写帖子，没想到越做越大，现在已经有14个群了（部分未展示），在此我要感谢所有支持我的人
 
-*★<font size="5" color="#000000">做</font>
-<font size="5" color="#666666">一</font>
-<font size="5" color="#fa0000">个</font>
-<font size="5" color="#fa7d00">多</font>
-<font size="5" color="#dbdb00">元</font>
-<font size="5" color="#fafa00">化</font>
-<font size="5" color="#00fa00">且</font>
-<font size="5" color="#00f562">免</font>
-<font size="5" color="#00f5f5">费</font>
-<font size="5" color="#006edb">良</font>
-<font size="5" color="#007dfa">心</font>
-<font size="5" color="#0000fa">的</font>
-<font size="5" color="#6400fa">资</font>
-<font size="5" color="#fa00fa">源</font>
-<font size="5" color="#a800a8">群</font>★*
+★<font size="5" color="#000000">做</font><font size="5" color="#666666">一</font><font size="5" color="#fa0000">个</font><font size="5" color="#fa7d00">多</font><font size="5" color="#dbdb00">元</font><font size="5" color="#fafa00">化</font><font size="5" color="#00fa00">且</font><font size="5" color="#00f562">免</font><font size="5" color="#00f5f5">费</font><font size="5" color="#006edb">良</font><font size="5" color="#007dfa">心</font><font size="5" color="#0000fa">的</font><font size="5" color="#6400fa">资</font><font size="5" color="#fa00fa">源</font><font size="5" color="#a800a8">群</font>★
 
 - 为了防机器人，现添加入群验证，<span style="color: #fa0000">请填写各个分群对应的口令</span>
 
