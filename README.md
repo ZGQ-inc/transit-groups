@@ -207,3 +207,9 @@
 [邀请链接](https://conversations.im/j/zgq-inc@conference.conversations.im)
 
 `加密聊天室，大陆可用`
+
+## Enigma
+
+[邀请链接](https://eg.im/joinchat/qf0JSkOOEO0KRPzZ)
+
+`即时通讯软件，类似Telegram和Skype，不用梯子`
