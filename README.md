@@ -227,3 +227,11 @@
 `即时通讯软件，类似Telegram和Skype，不用梯子`
 
 **<font size="5" color="#fa0000">已弃坑</font>**
+
+## Matrix
+
+[邀请链接](https://matrix.to/#/#zgqincliqun:matrix.org)
+
+`加密即时通讯软件，类似Telegram，但是安全性更高`
+
+**<font size="5" color="#fa0000">已弃坑</font>**
